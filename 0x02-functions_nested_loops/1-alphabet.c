@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  * print alphabet - Prints the alphabet in lowercase
  *
